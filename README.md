@@ -24,7 +24,7 @@ Vagrant.configure("2") do |config|
         vb.gui = true
 #Nombre de la máquina
         vb.name = "UbuntuServer"
-#La memoria RAM que quremos
+#La memoria RAM que queremos
         vb.memory = "2048"
     end 
 #Nombre de la máquina
